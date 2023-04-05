@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saidu Nazar</h1>
 <h3 align="center">A JavaScript developer driven by passion.</h3>
 
-- 🔭 I’m currently working on [hive-connect](https://github.com/saidunazar/hive-connect) 
+- 🔭 I’m currently working on [Hive Connect](https://github.com/saidunazar/hive-connect) 
 - 🌱 I’m currently learning **Node and Next JS** 
 - 📫 How to reach me **saidunazar92@gmail.com**
 
@@ -95,15 +95,15 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="30"
-      height="30"
+      width="40"
+      height="40"
     />
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
       alt="express"
-      width="30"
+      width="45"
       height="30"
     />
   </a>
