@@ -111,8 +111,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
-      width="40"
-      height="40"
+      width="35"
+      height="35"
     />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
