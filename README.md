@@ -103,7 +103,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
       alt="express"
-      width="45"
+      width="50"
       height="30"
     />
   </a>
@@ -111,8 +111,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
-      width="30"
-      height="30"
+      width="40"
+      height="40"
     />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
