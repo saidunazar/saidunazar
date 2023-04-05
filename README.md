@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saidu Nazar</h1>
 <h3 align="center">A JavaScript developer driven by passion.</h3>
 
-- 🔭 I’m currently working on [Hive Connect](https://github.com/saidunazar/hive-connect) 
 - 🌱 I specialize in designing and implementing frontend solutions
+- 🔭 I’m currently working on [Hive Connect](https://github.com/saidunazar/hive-connect) 
 - 📫 How to reach me **saidunazar92@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
