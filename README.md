@@ -3,7 +3,7 @@
 
 - 🌱 I specialize in designing and implementing frontend solutions
 - 🔭 I’m currently working on [Hive Connect](https://github.com/saidunazar/hive-connect) 
-- 📫 How to reach me **saidunazar92@gmail.com**
+- 📫 How to reach me **saidunazar@icloud.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
