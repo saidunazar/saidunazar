@@ -2,7 +2,6 @@
 <h3 align="center">A JavaScript developer driven by passion.</h3>
 
 - 🌱 I specialize in designing and implementing frontend solutions
-- 🔭 I’m currently working on [Fat Tiger](https://github.com/saidunazar/fat-tiger) - Food ordering platform🚀
 - 📫 How to reach me **saidunazar92@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
